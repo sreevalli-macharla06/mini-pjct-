@@ -1,2 +1,2 @@
 # mini-pjct-
-my mini project
+Digital Twin of a Classroom for Attendance + Behaviour Analytics
